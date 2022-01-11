@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ultra/AndroidStudioProjects/GithubUserList/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
-        <entry key="..\:/Users/ultra/AndroidStudioProjects/GithubUserList/app/src/main/res/layout/activity_splash.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/ultra/AndroidStudioProjects/GithubUserList/app/src/main/res/drawable/search_background.xml" value="0.10324074074074074" />
+        <entry key="..\:/Users/ultra/AndroidStudioProjects/GithubUserList/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/ultra/AndroidStudioProjects/GithubUserList/app/src/main/res/layout/activity_splash.xml" value="0.14" />
         <entry key="..\:/Users/ultra/AndroidStudioProjects/GithubUserList/app/src/main/res/layout/background.xml" value="0.12771739130434784" />
         <entry key="..\:/Users/ultra/AndroidStudioProjects/GithubUserList/app/src/main/res/layout/item_user.xml" value="0.22" />
       </map>

@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Benny Perdana</string>
+    <string name="user">User</string>
+    <string name="name">Name</string>
+    <string name="search">Search</string>
+    <string name="username">Username</string>
+    <string name="isi_username">username</string>
+    <string name="isi_nama">name</string>
+
+    <!-- ext -->
+
+    <string name="colon">:</string>
+    <string name="progress">Wait a sec</string>
+    <string name="title">Github User App</string>
+    <string name="search_user">Search User</string>
+
 </resources>
